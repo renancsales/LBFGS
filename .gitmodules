@@ -1,0 +1,3 @@
+[submodule "LBFGS/vendor/liblbfgs"]
+	path = LBFGS/vendor/liblbfgs
+	url = https://github.com/renancsales/liblbfgs
